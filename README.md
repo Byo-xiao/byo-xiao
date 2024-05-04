@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Byo-xiao github stats](https://github-readme-stats.vercel.app/api?username=byo-xiao&show_icons=false&hide_border=true)
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byo-xiao&layout=compact&langs_count=8"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byo-xiao&layout=compact&langs_count=8"/>
